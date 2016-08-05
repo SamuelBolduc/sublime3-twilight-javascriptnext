@@ -511,7 +511,7 @@
       <key>name</key>
       <string>String, Symbols, Inherited Class, Markup Heading</string>
       <key>scope</key>
-      <string>string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js, variable.other.readwrite.property.object-literal</string>
+      <string>string, constant.other.symbol, constant.other.key, entity.other.inherited-class, markup.heading, markup.inserted.git_gutter, meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js, variable.other.readwrite.property.object-literal, keyword.other.template</string>
       <key>settings</key>
       <dict>
         <key>fontStyle</key>
@@ -558,4 +558,3 @@
   <string>766026CB-703D-4610-B070-8DE07D967C5F</string>
 </dict>
 </plist>
-
